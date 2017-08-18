@@ -22,3 +22,21 @@ table {
 hr {
   clear: both;
 }
+
+.img {
+  padding-left: 0;
+  padding-right:0;
+
+}
+#RSS {
+  padding-left: 5px;
+}
+
+#print {
+  list-style-image: url(img/print-icon.png);
+  float: right;
+}
+
+#postDate {
+  float: left;
+}
